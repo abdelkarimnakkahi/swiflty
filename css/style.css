@@ -205,7 +205,7 @@ nav .toggle span:last-child {
 }
 
 #showcase .container {
-    background-image: url('/images/mobile2.png');
+    background-image: url('../images/mobile2.png');
     background-size: 60%;
     background-position: right 65%;
     background-repeat: no-repeat;
